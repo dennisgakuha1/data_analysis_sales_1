@@ -4,11 +4,11 @@ This repository includes a sales analysis project built using Power BI and SQL .
 KPI Requirements
 The following key performance indicators (KPIs) are calculated to assess business performance:
 
--Total Revenue
--Average Order Value
--Total Pizzas Sold
--Total Orders
--Average Pizzas per Order
+- Total Revenue
+- Average Order Value
+- Total Pizzas Sold
+- Total Orders
+- Average Pizzas per Order
 
 Charts & Visualizations Requirements
 To better understand trends and patterns in the data, the following visualizations are created:
