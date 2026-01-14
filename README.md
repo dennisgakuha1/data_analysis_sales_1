@@ -13,9 +13,9 @@ The following key performance indicators (KPIs) are calculated to assess busines
 Charts & Visualizations Requirements
 To better understand trends and patterns in the data, the following visualizations are created:
 
-Daily Trend for Total Orders
-Hourly Trend for Total Orders
-Percentage of Sales by Pizza Category
-Percentage of Sales by Pizza Size
-Total pizza Sales by Pizza Category
-Top sellers and bottom sellers
+-Daily Trend for Total Orders
+-Hourly Trend for Total Orders
+-Percentage of Sales by Pizza Category
+-Percentage of Sales by Pizza Size
+-Total pizza Sales by Pizza Category
+-Top sellers and bottom sellers
